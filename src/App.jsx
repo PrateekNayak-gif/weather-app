@@ -57,7 +57,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Weather Application by AJ</h1>
+      <h1>Weather Application</h1>
 
       <SearchBar
         city={city}
